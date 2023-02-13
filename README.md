@@ -19,10 +19,20 @@ Welcome to UFO Sightings website. Once you view the website, you can see the dat
 ### How to choose a city 
 If you review the data in the table on the right side of the webpage, you can enter the filters in the left side text boxes, and the filters result in returning 2 matches if you choose the filters correctly. Make sure to type everything in lower case letters and do not have spaces at the end of the text. Click off the input box or press enter to initiate the filter. To reset the filter criteria, click the UFO Sightings at the top left of the website.
 
-[How the website looks once you choose a city](static/images/website_elcajon.PNG) 
+### El Cajon is chosen
+[How the website looks once you choose El Cajon](static/images/website_elcajon.PNG) 
 
-### what the results look like 
-
+### La Mesa is chosen
+[How the website looks once you choose La Mesa](static/images/website_lamesa.PNG) 
 
 ## Summary:
-One major drawback of this static data website is that the data is a very small subset of real world data. And the user must know specific dates, cities, or shapes to search for UFOs. Also some shapes such as "light" might not be intuitive to every user. And to use the filters, the user must already know something about the data values, especially for cities.  For cities, we usually start their names with capital letters, however, the data uses only lower case for city names. Therefore, since the filters to located a city require correct lowercase spellings and do not include spaces at the end. The city that was used as an initial placeholder in the form could not be typed as "sandiego", “san diego_”, or "San Diego". The only acceptable input would be "san diego". 
+### Small set of static data that is not current! 
+One major drawback of this static data website is that the data is a very small subset of real world data. And the user must know specific dates, cities, or shapes to even search for UFOs.  It seems that the data contains only a few dates in January 2010. That is not a very realistic set of data. And the data does not change as new information is available.
+
+### need real access to current data
+We need a larger set of data as well as a way to access the ever changing data available on the internet.
+
+### most of the website itself is taken up by the data! That means the user sees no images or anything to excite a user about going to this website and learning here. There are no places the user can click or tab or anything for the user to do other than the 'old school' method of typing in text. That is not exciting.
+
+### the text, color and fonts are not interesting. A modern website needs color, the ability to view related pages on a website, a menu, and more. This is a website designed for the early days of the web: the 1990s. 
+
