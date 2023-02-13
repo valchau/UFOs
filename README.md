@@ -5,14 +5,16 @@ Module 12 using JavaScript and bootstrap
 ## Overview
 In this module, the task is to create a table using JavaScript, allowing users quick access via a website to some UFO data. The JavaScript table will be accessed using JavaScript functions, allowing the user to perceive the website as being dynamic, and changing based on the user's input. 
 
-The table was created using JavaScript, while HTML/CSS and Bootstrap were used to modify the website's look and feel. To perform this analysis, we created a file structure for the website, where the main HTML file is in the UFOs folder, and there is a static subfolder here as well. Inside the static subfolder are folders for images, for css (the styple sheet), and the folder js to hold 2 JavaScript files,  one with the data in the table that will be presented to website users and the other JavaScript file contains js functions that provide the user's access to this data.  
+### JavaScript and HTML 
+The table was created using JavaScript, while HTML/CSS were used to modify the website's look and feel. To perform this analysis, we created a file structure for the website, where the main HTML file is in the UFOs folder, and there is a static subfolder here as well. Inside the static subfolder are folders for images, for css (the styple sheet), and the folder js to hold 2 JavaScript files,  one with the data in the table that will be presented to website users and the other JavaScript file contains js functions that provide the user's access to this data.  
 
-The JavaSCript library D3 was used in the code, because it can produce sophisticated and highly dynamic graphics in an HTML webpage. It is often used by data professionals to create dashboards, or a collection of visual data (such as graphs and maps), for presentation. 
+### bootstrap library
+The JavaSCript library D3 was used in the code, because it can produce sophisticated and highly dynamic graphics in an HTML webpage. It is often used by data professionals to create dashboards, or a collection of visual data (such as graphs and maps), for presentation. The bootstrap library of styles and JavaScript was used to make the website more interesting to the user as well to resize correctly for different size devices.
 
 ## Results:
 Welcome to UFO Sightings website.
+[How the website looks](static/images/) 
 
-Pic 1
 
 How the filters appear when first landing on the page:
 Pic 2
